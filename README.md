@@ -23,7 +23,7 @@ An oscilloscope with bandwidth in excess of 300MHz is recommended to look at som
 
 ## PCB
 
-An effort was made to design a PCB that is compact (50x50mm) and visually pleasing without making any compromises regarding pure performance. I let you be the judge of the result.
+An effort was made to design a 2-Layer PCB that is compact (50x50mm) and visually pleasing without making any compromises regarding pure performance. I let you be the judge of the result.
 The cutouts on the bottom layer are strategically placed to avoid load currents from disturbing sensitive nodes and to minimise parasitic capacitances on the inverting input of the CFAs.
 ![IMG_0499](https://github.com/PWieland/SCAM/assets/65927363/e0684f82-0ebd-4883-a797-c145dff60224)
 
