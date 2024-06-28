@@ -27,7 +27,7 @@ An effort was made to design a 2-Layer PCB that is compact (50x50mm) and visuall
 The cutouts on the bottom layer are strategically placed to avoid load currents from disturbing sensitive nodes and to minimise parasitic capacitances on the inverting input of the CFAs.
 ![IMG_0499](https://github.com/PWieland/SCAM/assets/65927363/e0684f82-0ebd-4883-a797-c145dff60224)
 
-After SMD assembly and ultrasonic cleaning and before mounting of the TH-components (tall TH-capacitors would disturb the view).
+After SMD assembly and ultrasonic cleaning, before mounting of the TH-components (tall TH-capacitors would disturb the view).
 ![IMG_0553](https://github.com/PWieland/SCAM/assets/65927363/4f7e634b-d011-4822-a6bf-9ff3e0a2fa77)
 
 Obviously with so many compensation options, some footprints will usually remain empty. This picture shows an implementation of 2-Pole-Compensation.
