@@ -6,7 +6,7 @@ Many of the most high performance headphone amplifiers on the market use this ex
 The name is supposed to poke fun at some of the corny names people give to their projects on audio forums, nothing more.
 
 My version features extensive options for loop compensation, including the common 2-Pole-Compensation, Noise-Gain-Shaping and an extra Lead-Lag-Compensator in the forward path.
-It can be compensated to be a headphone amplifier but will also do exceptionally well in any test and measurement application where heavy loads have to be driven with low noise and distortion.
+It can be compensated to be a headphone amplifier but will also do exceptionally well in many test and measurement applications where heavy loads have to be driven with low noise and distortion.
 
 ## Schematic
 
