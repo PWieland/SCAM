@@ -35,6 +35,6 @@ Obviously with so many compensation options, some footprints will usually remain
 
 ## Performance
 
-An un-optimised version driving 2Vrms at 1kHz into 50Ω. Signal source is Victor's low distortion oscillator: https://viccc42.wixsite.com/uld-audio
+An un-optimised version driving 2Vrms at 1kHz into 50Ω (one channel). Signal source is [Victor's low distortion oscillator](https://viccc42.wixsite.com/uld-audio).
 ![VO1kHz_buffered_50OhmLoad_2Vrms_Cosmos192kStereoR](https://github.com/PWieland/SCAM/assets/65927363/d08946e6-f100-46e1-b124-ea06afb240d9)
 
